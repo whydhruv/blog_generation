@@ -9,7 +9,7 @@ This repository contains the code and resources for a Blog Generation Applicatio
 To install and run the Blog Generation Application, follow these steps:   
 1. Clone the repo:
 ````
- git clone https://github.com/whydhruv/blog_generation
+git clone https://github.com/whydhruv/blog_generation
 ````
 3. Install dependencies:     
    ````
