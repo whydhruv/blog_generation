@@ -5,17 +5,21 @@ This repository contains the code and resources for a Blog Generation Applicatio
 **2. User-Friendly Interface:** Provides an intuitive and user-friendly interface for creating and managing blog posts.    
 **3. Topic and Word Count Input:** Users can specify topics and the desired number of words for their blog posts.     
 
+## Llama 2 Integration    
+The application integrates with Llama 2 for natural language generation. To enable Llama 2 integration, download the model from meta or huggingface and update the path of the model in  app.py   
 ## Installation  
 To install and run the Blog Generation Application, follow these steps:   
-1. Clone the repo:
+**Clone the repo:**
 ````
 git clone https://github.com/whydhruv/blog_generation
 ````
-3. Install dependencies:     
+**Install dependencies:**     
 ````
 pip install -r requirements.txt
 ````
-4. Run the application:    
+**Run the application:**    
 ````
 streamlit run app.py
 ````
+
+
