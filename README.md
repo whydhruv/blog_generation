@@ -11,3 +11,11 @@ To install and run the Blog Generation Application, follow these steps:
     ````
       git clone https://github.com/whydhruv/blog_generation
     ````
+2. Install dependencies:     
+   ````
+       pip install -r requirements.txt
+   ````
+3. Run the application:    
+   ````
+       streamlit run app.py
+   ````
